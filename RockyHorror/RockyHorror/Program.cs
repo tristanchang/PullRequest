@@ -1,4 +1,7 @@
-﻿namespace RockyHorror
+﻿using System;
+using System.Collections.Generic;
+
+namespace RockyHorror
 {
     class Program
     {
